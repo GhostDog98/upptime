@@ -4,19 +4,19 @@
     "url": "https://ghostoverflow.gay?token=$HEADER_SECRET",
     "icon": "https://icons.duckduckgo.com/ip3/ghostoverflow.gay.ico",
     "slug": "ghost-over-flow-gay",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3771,
-    "timeDay": 13957,
-    "timeWeek": 3771,
-    "timeMonth": 3771,
-    "timeYear": 3771,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 3566,
+    "timeDay": 10695,
+    "timeWeek": 3566,
+    "timeMonth": 3566,
+    "timeYear": 3566,
     "dailyMinutesDown": {
-      "2025-04-26": 0
+      "2025-04-26": 4
     }
   },
   {
