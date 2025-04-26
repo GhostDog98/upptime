@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ghostoverflow.gay.ico",
     "slug": "ghost-over-flow-gay",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 715,
-    "timeDay": 905,
-    "timeWeek": 715,
-    "timeMonth": 715,
-    "timeYear": 715,
-    "dailyMinutesDown": {
-      "2025-04-25": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 741,
+    "timeDay": 922,
+    "timeWeek": 741,
+    "timeMonth": 741,
+    "timeYear": 741,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 166,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "time": 200,
+    "timeDay": 133,
+    "timeWeek": 200,
+    "timeMonth": 200,
+    "timeYear": 200,
     "dailyMinutesDown": {}
   }
 ]
