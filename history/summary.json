@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ghostoverflow.gay.ico",
     "slug": "ghost-over-flow-gay",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "98.84%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 2867,
-    "timeDay": 967,
-    "timeWeek": 2867,
-    "timeMonth": 2867,
-    "timeYear": 2867,
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 2775,
+    "timeDay": 1014,
+    "timeWeek": 2775,
+    "timeMonth": 2775,
+    "timeYear": 2775,
     "dailyMinutesDown": {
       "2025-04-28": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 113,
-    "timeWeek": 189,
-    "timeMonth": 189,
-    "timeYear": 189,
+    "time": 176,
+    "timeDay": 37,
+    "timeWeek": 176,
+    "timeMonth": 176,
+    "timeYear": 176,
     "dailyMinutesDown": {}
   }
 ]
