@@ -4,7 +4,7 @@
     "url": "https://ghostoverflow.gay?token=$HEADER_SECRET",
     "icon": "https://icons.duckduckgo.com/ip3/ghostoverflow.gay.ico",
     "slug": "ghost-over-flow-gay",
-    "status": "up",
+    "status": "down",
     "uptime": "96.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 3304,
     "timeYear": 4123,
     "dailyMinutesDown": {
+      "2025-07-30": 0,
       "2025-07-14": 394,
       "2025-07-04": 626,
       "2025-07-01": 192,
