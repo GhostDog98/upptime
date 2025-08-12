@@ -3,16 +3,27 @@ owner: GhostDog98 # Your GitHub organization or username, where this repository 
 repo: upptime # The name of this repository
 
 sites:
-  - name: GhostOverFlow.gay
+  - name: ghostoverflow.gay
     url: https://ghostoverflow.gay?token=$HEADER_SECRET
+  - name: ai.ghostoverflow.gay
+    url: https://ghostoverflow.gay?token=$HEADER_SECRET
+  - name: api.ghostoverflow.gay
+    url: https://api.ghostoverflow.gay/endpoints?token=$HEADER_SECRET
+  - name: jellyfin.ghostoverflow.gay
+    url: https://jellyfin.ghostoverflow.gay?token=$HEADER_SECRET
+  - name: lufi.ghostoverflow.gay
+    url: https://lufi.ghostoverflow.gay?token=$HEADER_SECRET
   - name: Wikipedia
     url: https://en.wikipedia.org
+assignees:
+  - GhostDog98
 
 status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /upptime
+  #baseUrl: /upptime
+  cname: uptime.ghostoverflow.gay
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Uptime Stats for infrastructure
   introTitle: "**Upptime** status for ghostoverflow.gay."
   introMessage: Ruh roh scooby
   navbar:
