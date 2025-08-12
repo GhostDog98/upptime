@@ -10,7 +10,7 @@ sites:
   - name: api.ghostoverflow.gay
     url: https://api.ghostoverflow.gay/endpoints?token=$HEADER_SECRET
   - name: jellyfin.ghostoverflow.gay
-    url: https://jellyfin.ghostoverflow.gay?token=$HEADER_SECRET
+    url: https://jellyfin.ghostoverflow.gay/web/?token=$HEADER_SECRET
   - name: lufi.ghostoverflow.gay
     url: https://lufi.ghostoverflow.gay?token=$HEADER_SECRET
   - name: Wikipedia
