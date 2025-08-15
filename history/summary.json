@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ghostoverflow.gay.ico",
     "slug": "ghostoverflow-gay",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1018,
     "timeDay": 1075,
     "timeWeek": 1018,
     "timeMonth": 1018,
     "timeYear": 1018,
-    "dailyMinutesDown": {
-      "2025-08-15": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ai.ghostoverflow.gay",
@@ -60,19 +58,19 @@
     "url": "https://jellyfin.ghostoverflow.gay/web/?token=$HEADER_SECRET",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.ghostoverflow.gay.ico",
     "slug": "jellyfin-ghostoverflow-gay",
-    "status": "up",
-    "uptime": "25.13%",
-    "uptimeDay": "81.51%",
-    "uptimeWeek": "25.13%",
-    "uptimeMonth": "25.13%",
-    "uptimeYear": "25.13%",
+    "status": "down",
+    "uptime": "27.02%",
+    "uptimeDay": "89.92%",
+    "uptimeWeek": "27.02%",
+    "uptimeMonth": "27.02%",
+    "uptimeYear": "27.02%",
     "time": 1063,
     "timeDay": 879,
     "timeWeek": 1063,
     "timeMonth": 1063,
     "timeYear": 1063,
     "dailyMinutesDown": {
-      "2025-08-15": 74,
+      "2025-08-15": 75,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 542
@@ -95,7 +93,7 @@
     "timeMonth": 4042,
     "timeYear": 4042,
     "dailyMinutesDown": {
-      "2025-08-15": 1248,
+      "2025-08-15": 1370,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 541
