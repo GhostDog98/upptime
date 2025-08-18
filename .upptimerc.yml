@@ -13,6 +13,8 @@ sites:
     url: https://jellyfin.ghostoverflow.gay/web/?token=$HEADER_SECRET
   - name: lufi.ghostoverflow.gay
     url: https://lufi.ghostoverflow.gay?token=$HEADER_SECRET
+  - name: immich.ghostoverflow.gay
+    url: https://immich.ghostoverflow.gay?token=$HEADER_SECRET
   - name: Wikipedia
     url: https://en.wikipedia.org
 assignees:
@@ -24,7 +26,7 @@ status-website:
   cname: uptime.ghostoverflow.gay
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime Stats for infrastructure
-  introTitle: "**Upptime** status for ghostoverflow.gay."
+  introTitle: "**Uptime** status for ghostoverflow.gay."
   introMessage: Ruh roh scooby
   navbar:
     - title: Status
