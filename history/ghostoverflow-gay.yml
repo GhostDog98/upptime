@@ -1,7 +1,7 @@
 url: https://ghostoverflow.gay?token=$HEADER_SECRET
-status: down
-code: 523
-responseTime: 3009
-lastUpdated: 2025-10-30T22:46:41.415Z
+status: up
+code: 200
+responseTime: 1476
+lastUpdated: 2025-10-30T22:52:08.910Z
 startTime: 2025-08-12T14:57:25.296Z
 generator: Upptime <https://github.com/upptime/upptime>
