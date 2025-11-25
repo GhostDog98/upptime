@@ -1,7 +1,7 @@
 url: https://api.ghostoverflow.gay/endpoints?token=$HEADER_SECRET
 status: up
 code: 200
-responseTime: 1106
-lastUpdated: 2025-11-24T23:24:19.987Z
+responseTime: 889
+lastUpdated: 2025-11-25T23:24:29.606Z
 startTime: 2025-08-12T14:57:27.580Z
 generator: Upptime <https://github.com/upptime/upptime>
