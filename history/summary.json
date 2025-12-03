@@ -113,11 +113,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lufi.ghostoverflow.gay.ico",
     "slug": "lufi-ghostoverflow-gay",
     "status": "up",
-    "uptime": "13.48%",
+    "uptime": "13.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "51.44%",
-    "uptimeYear": "13.48%",
+    "uptimeMonth": "51.48%",
+    "uptimeYear": "13.49%",
     "time": 1910,
     "timeDay": 301,
     "timeWeek": 891,
@@ -255,19 +255,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 829,
-    "timeWeek": 242,
-    "timeMonth": 167,
+    "timeDay": 519,
+    "timeWeek": 238,
+    "timeMonth": 168,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-12-03": 0
+      "2025-12-03": 15
     }
   }
 ]
