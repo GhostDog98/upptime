@@ -1,7 +1,7 @@
 url: https://jellyfin.ghostoverflow.gay/web/?token=$HEADER_SECRET
 status: up
 code: 200
-responseTime: 943
-lastUpdated: 2026-01-21T23:32:34.140Z
+responseTime: 901
+lastUpdated: 2026-01-22T23:28:45.415Z
 startTime: 2025-08-12T14:57:28.803Z
 generator: Upptime <https://github.com/upptime/upptime>
