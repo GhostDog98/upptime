@@ -1,7 +1,7 @@
 url: https://immich.ghostoverflow.gay?token=$HEADER_SECRET
-status: down
-code: 502
-responseTime: 3844
-lastUpdated: 2026-03-05T23:56:04.746Z
+status: up
+code: 200
+responseTime: 752
+lastUpdated: 2026-03-06T07:12:33.241Z
 startTime: 2025-08-18T05:28:09.619Z
 generator: Upptime <https://github.com/upptime/upptime>
