@@ -1,7 +1,7 @@
 url: https://jellyfin.ghostoverflow.gay/web/?token=$HEADER_SECRET
 status: down
 code: 404
-responseTime: 1086
-lastUpdated: 2026-03-22T23:35:42.820Z
+responseTime: 1109
+lastUpdated: 2026-03-23T23:39:52.884Z
 startTime: 2025-08-12T14:57:28.803Z
 generator: Upptime <https://github.com/upptime/upptime>
