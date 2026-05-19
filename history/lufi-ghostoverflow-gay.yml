@@ -1,7 +1,7 @@
 url: https://lufi.ghostoverflow.gay?token=$HEADER_SECRET
-status: down
-code: 523
-responseTime: 3344
-lastUpdated: 2026-05-19T14:17:45.754Z
+status: up
+code: 200
+responseTime: 719
+lastUpdated: 2026-05-19T17:14:09.778Z
 startTime: 2025-08-12T14:57:32.522Z
 generator: Upptime <https://github.com/upptime/upptime>
