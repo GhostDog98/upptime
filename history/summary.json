@@ -98,12 +98,12 @@
     "url": "https://api.ghostoverflow.gay/endpoints?token=$HEADER_SECRET",
     "icon": "https://icons.duckduckgo.com/ip3/api.ghostoverflow.gay.ico",
     "slug": "api-ghostoverflow-gay",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "98.78%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "98.77%",
     "time": 1181,
     "timeDay": 1006,
     "timeWeek": 1102,
@@ -131,7 +131,8 @@
       "2026-07-13": 173,
       "2026-08-08": 27,
       "2026-09-29": 661,
-      "2026-10-22": 219
+      "2026-10-22": 219,
+      "2026-11-03": 7
     }
   },
   {
@@ -140,7 +141,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.ghostoverflow.gay.ico",
     "slug": "jellyfin-ghostoverflow-gay",
     "status": "up",
-    "uptime": "60.38%",
+    "uptime": "60.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.50%",
@@ -342,11 +343,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lufi.ghostoverflow.gay.ico",
     "slug": "lufi-ghostoverflow-gay",
     "status": "up",
-    "uptime": "76.49%",
+    "uptime": "76.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "93.79%",
+    "uptimeYear": "93.93%",
     "time": 1216,
     "timeDay": 1056,
     "timeWeek": 856,
@@ -401,9 +402,9 @@
     "url": "https://immich.ghostoverflow.gay?token=$HEADER_SECRET",
     "icon": "https://icons.duckduckgo.com/ip3/immich.ghostoverflow.gay.ico",
     "slug": "immich-ghostoverflow-gay",
-    "status": "up",
+    "status": "down",
     "uptime": "95.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "95.05%",
@@ -454,7 +455,8 @@
       "2026-07-13": 172,
       "2026-08-08": 27,
       "2026-09-29": 660,
-      "2026-10-22": 216
+      "2026-10-22": 216,
+      "2026-11-03": 0
     }
   },
   {
